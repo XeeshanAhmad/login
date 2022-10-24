@@ -1,0 +1,19 @@
+nav{
+  background-color: grey;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  height: 50px;
+  gap: 1rem;
+}
+
+.link{
+  font-weight: bold;
+  color: white;
+  text-decoration: none;
+}
+
+.link:hover{
+  color: firebrick;
+}
